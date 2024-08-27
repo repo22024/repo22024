@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy [Tu Nombre], un desarrollador apasionado por [tu especialidad o interés]. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Soy [La profe], un desarrollador apasionado por [tu especialidad o interés]. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## Sobre mí
 
