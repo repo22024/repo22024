@@ -5,13 +5,15 @@
 
 - 🔭 CIP **Bases de datos Sample**
 
-- 🌱 I’m currently learning **Github, Git, flutter**
+- 🌱Aprendiendo sobre **Github, Git, flutter**
 
 - 👯 Colaboro con **Dbproyect**
 
-- 💬 Te puedo ayudar **IDES, Python, Java , Mysql**
+- 👨‍💻 Los repositorios están [https://github.com/repo22024](https://github.com/repo22024)
 
-- 📫 Encuentrame **repo22024@gmail.com**
+- 💬 Te puedo ayudar con **IDES, Python, Java , Mysql**
+
+- 📫 Contáctame **repo22024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
