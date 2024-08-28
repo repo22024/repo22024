@@ -1,39 +1,36 @@
-<h1 align="center">Hola 👋, soy Repo22024, cuenta sobre Bases de datos
-Jugona de las Bases de Datos
-repo22024
+### 👋 ¡Hola, soy ! DataDevPro
+🚀 Exploradora de Bases de Datos | Desarrolladora SQL & NoSQL | Colaborativa y Apasionada por el Aprendizaje
 
-🔭 CIP Bases de datos Sample
+### 🌟 Sobre Mí
+¡Bienvenido a mi perfil! Soy una entusiasta de las bases de datos con experiencia en SQL y dando mis primeros pasos en el mundo NoSQL. Aquí encontrarás proyectos, retos y colaboraciones centradas en el desarrollo, optimización y gestión de bases de datos con diferentes gestores. Mi objetivo es aprender, enseñar y compartir conocimientos con la comunidad.
 
-🌱Aprendiendo sobre Github, Git, flutter
+### 🛠️ Tecnologías y Herramientas
+Gestores SQL: MySQL, PostgreSQL, SQL Server, MariaDB, SQLite
+NoSQL: MongoDB, Firebase
+Lenguajes de Programación: SQL, Python, Java
+Herramientas de Desarrollo: Git, GitHub, Visual Studio Code, Docker
+Otras Habilidades: Modelado de datos, optimización de consultas, administración de bases de datos
 
-👯 Colaboro con Dbproyect
+### 🌱 En Qué Estoy Trabajando
+🔄 Mejorando mi dominio en bases de datos NoSQL.
+📊 Desarrollando scripts SQL para diversos proyectos.
+📝 Documentando buenas prácticas y tutoriales para la comunidad.
+🎯 Qué Puedes Encontrar Aquí
 
-👨‍💻 Los repositorios están https://github.com/repo22024
+### 📚 Repositorios Educativos: Scripts, ejemplos y bases de datos listas para explorar.
+🚀 Proyectos de Colaboración: Trabajos conjuntos en la mejora y optimización de bases de datos.
+🎓 Retos y Ejercicios: Actividades prácticas para aprender y mejorar habilidades en SQL y NoSQL.
 
-💬 Te puedo ayudar con IDES, Python, Java , Mysql
+### 🤝 ¡Colabora Conmigo!
+💡 ¿Tienes una idea o proyecto sobre bases de datos? ¡Hablemos y trabajemos juntos!
+🛠️ Me encanta revisar y mejorar scripts de bases de datos. Estoy aquí para colaborar.
+### 📬 ¡Conecta Conmigo!
+GitHub: @tuusuario
+LinkedIn: Tu Nombre
+Email: tucorreo@gmail.com
+### 🥇 Mi Misión
+Crear, optimizar y enseñar sobre bases de datos. Ayudo a los desarrolladores a entender y dominar el mundo de los datos, promoviendo un aprendizaje continuo y colaborativo.
 
-📫 Contáctame repo22024@gmail.com
+### ☕ Apóyame
+Si te gusta lo que ves, no dudes en darme una estrella ⭐ o seguirme para mantenerte al día con mis últimos proyectos y tutoriales.
 
-Connect with me:
-@repo22024 @repo22024 www.repo22024.com
-
-Languages and Tools:
-android aws firebase git illustrator java linux mariadb mssql mysql nodejs photoshop postgresql python sqlite
-
-Support:
-#repo22024**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@repo22024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@repo22024" height="30" width="40" /></a>
-<a href="https://instagram.com/@repo22024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@repo22024" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.repo22024.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.repo22024.com" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/#repo22024"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="#repo22024" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=repo22024&show_icons=true&locale=en&layout=compact" alt="repo22024" /></p>
