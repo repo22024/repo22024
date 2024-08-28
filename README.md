@@ -1,19 +1,27 @@
-<h1 align="center">Hola 👋, soy Repo22024, cuenta sobre Bases de datos</h1>
-<h3 align="center">Jugona de las Bases de Datos</h3>
+<h1 align="center">Hola 👋, Hola 👋, soy Repo22024, cuenta sobre Bases de datos
+Jugona de las Bases de Datos
+repo22024
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=repo22024&label=Profile%20views&color=0e75b6&style=flat" alt="repo22024" /> </p>
+🔭 CIP Bases de datos Sample
 
-- 🔭 CIP **Bases de datos Sample**
+🌱Aprendiendo sobre Github, Git, flutter
 
-- 🌱Aprendiendo sobre **Github, Git, flutter**
+👯 Colaboro con Dbproyect
 
-- 👯 Colaboro con **Dbproyect**
+👨‍💻 Los repositorios están https://github.com/repo22024
 
-- 👨‍💻 Los repositorios están [https://github.com/repo22024](https://github.com/repo22024)
+💬 Te puedo ayudar con IDES, Python, Java , Mysql
 
-- 💬 Te puedo ayudar con **IDES, Python, Java , Mysql**
+📫 Contáctame repo22024@gmail.com
 
-- 📫 Contáctame **repo22024@gmail.com**
+Connect with me:
+@repo22024 @repo22024 www.repo22024.com
+
+Languages and Tools:
+android aws firebase git illustrator java linux mariadb mssql mysql nodejs photoshop postgresql python sqlite
+
+Support:
+#repo22024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
