@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Hola 👋, soy Repo22024, cuenta sobre Bases de datos
+<h1 align="center">Hola 👋, soy Repo22024, cuenta sobre Bases de datos
 Jugona de las Bases de Datos
 repo22024
 
