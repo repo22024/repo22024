@@ -25,7 +25,7 @@ Otras Habilidades: Modelado de datos, optimización de consultas, administració
 💡 ¿Tienes una idea o proyecto sobre bases de datos? ¡Hablemos y trabajemos juntos!
 🛠️ Me encanta revisar y mejorar scripts de bases de datos. Estoy aquí para colaborar.
 ### 📬 ¡Conecta Conmigo!
-GitHub: @repo22024
+GitHub: ifcd0211.2021@gmail.com
 LinkedIn: Tu Nombre
 Email: 
 ### 🥇 Mi Misión
