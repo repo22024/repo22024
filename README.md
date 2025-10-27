@@ -27,7 +27,7 @@ Otras Habilidades: Modelado de datos, optimización de consultas, administració
 ### 📬 ¡Conecta Conmigo!
 GitHub: @repo22024
 LinkedIn: Tu Nombre
-Email: repo22024@gmail.com
+Email: 
 ### 🥇 Mi Misión
 Crear, optimizar y enseñar sobre bases de datos. Ayudo a los desarrolladores a entender y dominar el mundo de los datos, promoviendo un aprendizaje continuo y colaborativo.
 
